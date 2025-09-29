@@ -13,5 +13,6 @@ sine_wave = create_sine_wave(440, 2)
 plt.plot(sine_wave)
 
 
-print("Trying to make it work")
+print("Omar")
+
 
