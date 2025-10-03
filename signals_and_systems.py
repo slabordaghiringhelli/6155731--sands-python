@@ -12,7 +12,7 @@ def create_sine_wave(frequency, duration):
     
 
 
-sine_wave = create_sine_wave(440, 2)
+sine_wave = create_sine_wave(1, 2)
 
 
 
