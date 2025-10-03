@@ -22,6 +22,7 @@ plt.ylabel("Amplitude")
 plt.title("Sine wave")
 plt.show()
 
+print("hello")
 
 
 
