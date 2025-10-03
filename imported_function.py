@@ -20,4 +20,6 @@ plt.show()
 
 
 
-print("Hello")
+print("hello") 
+
+print("Sergi is testing")
